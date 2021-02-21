@@ -274,7 +274,7 @@ Main Page - HERO */
 
 .we-do-img-item {
   margin-right: 30px;
-  flex-basis: calc(100% / 3 - 30px);
+  flex-basis: calc(100% / 4 - 30px);
 }
 
 .we-do-title,
