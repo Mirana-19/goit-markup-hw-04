@@ -433,8 +433,7 @@ footer {
 
 .footer-container {
   display: flex;
-
-  /* align-items: center; */
+  align-items: center;
 }
 
 .social-title-footer {
