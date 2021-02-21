@@ -418,8 +418,12 @@ footer {
   margin-right: 74px;
 }
 
-.address-container {
+.footer-address-item:nth-child(2) {
   margin-top: 20px;
+  display: block;
+}
+
+.footer-contact-item > a {
   display: block;
 }
 
