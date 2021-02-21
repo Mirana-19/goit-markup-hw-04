@@ -326,7 +326,9 @@ Main Page - HERO */
 
 .team-members-container {
   padding-top: 30px;
+  padding-right: 32px;
   padding-bottom: 30px;
+  padding-left: 32px;
 }
 
 /* TEAM MEMBERS SOCIAL LINKS */
@@ -335,9 +337,7 @@ Main Page - HERO */
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-right: 32px;
-  padding-bottom: 30px;
-  padding-left: 32px;
+  padding-top: 16px;
 }
 
 .social-bg {
