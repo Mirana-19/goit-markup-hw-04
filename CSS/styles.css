@@ -333,12 +333,12 @@ Main Page - HERO */
 
 /* TEAM MEMBERS SOCIAL LINKS */
 
-/* .social-list {
+.social-list {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding-top: 16px;
-} */
+}
 
 .social-bg {
   width: 44px;
